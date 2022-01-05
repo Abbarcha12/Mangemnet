@@ -1,0 +1,16 @@
+.Close{
+    border-radius: 8px;
+    background-color: #F9FAFB;
+}
+.Close p{
+color: #344054;
+}
+.Auto{
+    background: #DCAE0C;
+    border-radius: 8px;
+
+
+}
+.Auto p{
+    color: white;
+}

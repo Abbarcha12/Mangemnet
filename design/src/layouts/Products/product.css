@@ -1,0 +1,11 @@
+.Dashborad1{
+    background: #FFFFFF;
+    border-radius: 40px 0px 0px 40px;
+}
+@media only screen and (max-width: 600px) {
+.Search{
+    position: relative;
+margin-top: 40px;
+}
+
+}

@@ -1,0 +1,26 @@
+.main{
+background-color: 
+#4CD964 !important;
+height: 44px;
+width: 360px;
+position: relative;
+left: 20px;
+top: 0px;
+border-radius: 8px;
+
+}
+@media only screen and (max-width: 600px) {
+.main{
+    position: relative;
+    left: 0px;
+}
+
+}
+.Add{
+    background: #4CD964;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-weight: bold;
+
+
+}

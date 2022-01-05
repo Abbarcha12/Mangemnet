@@ -1,0 +1,28 @@
+.Name{
+    color: #344054;
+    font-size: 14px;
+}
+.Badge{
+    border: 1px solid #D0D5DD ;
+    border-radius: 8px;
+    /* height: ; */
+}
+.badge p{
+    color: #027A48;
+}
+.badge{
+    background-color: #ECFDF3;
+    border-radius: 16px;
+}
+.badge1 p{
+color: #B42318;
+}
+.badge1{
+background-color: #FEF3F2;
+}
+.badge2 p{
+    color: #B54708;
+    }
+    .badge2{
+    background-color: #FEF3F2;
+    }

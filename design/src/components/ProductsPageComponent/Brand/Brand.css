@@ -1,0 +1,15 @@
+.title{
+    font-weight: 500;
+    font-size: 14px
+}
+.image{
+    width: 40px;
+height: 40px;
+}
+.title_sub{
+    color: #667085;
+    font-size: 14px;
+}
+.placeh{
+    border-radius: 8px !important;
+}

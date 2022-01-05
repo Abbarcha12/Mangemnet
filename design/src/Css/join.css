@@ -1,0 +1,44 @@
+.Dashborad1{
+    background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+/* height: 758px; */
+}
+.Dashborad2{
+    background: #FFFFFF;
+/* border-radius: 40px 0px 0px 40px; */
+/* height: 758px; */
+}
+.filed{
+    border-radius: 8px !important;
+}
+.Badge4{
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+}
+.Close{
+    border-radius: 8px;
+    background-color: #F9FAFB;
+}
+.Close p{
+color: #344054;
+}
+.Badge5{
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    background-color: #d6d8db;
+}
+.Badge5 p{
+    color: #344054;
+}
+/* For Mobile */
+@media screen and (max-width: 540px) {
+    .Add {
+        width: 95px;
+       height: 23px;
+    }
+    .Add p{
+        font-size: 8px;
+    }
+}
+
+/* For Tablets */

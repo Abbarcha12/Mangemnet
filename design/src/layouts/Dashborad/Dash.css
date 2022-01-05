@@ -1,0 +1,26 @@
+.LOGO{
+  color: #4CD964;;
+}
+.backoffice{
+    color: white;
+}
+.Dash_Sub{
+   text-decoration: none !important;
+   color: white !important;
+}
+.Dash :hover{
+    background-color:gainsboro ;
+}
+.icons{
+    font-size: 14px !important;
+    color: white !important;
+    text-decoration: none !important;
+}
+.Dashborad1{
+    background: #FFFFFF;
+border-radius: 40px 0px 0px 40px;
+/* height: 758px; */
+}
+Link{
+ text-decoration: none !important;
+}
